@@ -2,7 +2,6 @@ from pytube import Playlist
 from pytube import YouTube
 import pytube
 
-
 def getVideo():
     print('Enter the url')
     url = input() 
